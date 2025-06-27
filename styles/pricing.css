@@ -45,6 +45,7 @@
         color: var(--text-color-secondary);
         background: url(../assets/icons/Check.svg) no-repeat;
         padding-left: 2rem;
+        
     }
 
 
@@ -53,7 +54,6 @@
         margin-top: 1.5rem;
         font-size: 0.8755rem;
         color: var(--text-color-secondary);
-        
     }
 
     & .premium{
@@ -98,6 +98,8 @@
         }
     }
 
+
+    
     @media (width >=80em){
         --fs-price: 2.5rem;
 
