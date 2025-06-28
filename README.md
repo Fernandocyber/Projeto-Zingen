@@ -47,7 +47,7 @@ Exportação de SVGs
 📸 Demonstração
 Confira o projeto funcionando e explore a landing page do Zingen!
 
-👉 <a href="fernandocyber.github.io/Projeto-Zingen/" target="_blank"> Clique aqui para ver o projeto funcionando</a>
+👉 <a href="https://fernandocyber.github.io/Projeto-Zingen/" target="_blank"> Clique aqui para ver o projeto funcionando</a>
 
 
 🤝 Contribuição
