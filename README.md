@@ -1,4 +1,4 @@
-Projeto Zingen: Landing Page de Marketing de Karaokê
+
 📝 Visão Geral do Projeto
 Este projeto é uma landing page de marketing completa e responsiva para o aplicativo de karaokê "Zingen". Desenvolvida com HTML5 e CSS3 avançados, a página tem como objetivo apresentar o aplicativo de forma atraente e intuitiva, destacando suas funcionalidades, planos e a proposta de valor para os usuários. Focamos em uma interface moderna, organizada e que proporcione uma excelente experiência de navegação em qualquer dispositivo.
 
